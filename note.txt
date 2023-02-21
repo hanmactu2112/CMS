@@ -1,0 +1,6 @@
+1. Tạo role phân quyền tự thêm đường dẫn
+2. Thêm người dùng admin
+3. Tùy chỉnh menu trang
+4. Quản lý router
+5. Log các thay đổi
+6. Đăng nhập có captcha
